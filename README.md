@@ -26,7 +26,7 @@
 
 # English Version
 
-** This game is produced by wleea. **
+**This game is produced by wleea.**
 
 ## Hospital Rules 1
 
