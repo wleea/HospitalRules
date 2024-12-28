@@ -30,7 +30,7 @@
 
 ## Hospital Rules 1
 
-A C++ (.cpp) game, plot text class, has been updated. There's an element of horror.
+A C++ (.cpp) game, plot text class, has been updated. There are some elements of horror.
 
 *Last updated on 2024/08/06*
 
@@ -46,7 +46,7 @@ This version is lost!! The teacher deleted it in class!!
 
 ## Hospital Rules 2
 
-A C++ (.cpp) game, Hospital Rules 1 sequel. text game, 10% complete. There's an element of horror.
+A C++ (.cpp) game, Hospital Rules 1 sequel. text game, 10% complete. There are some elements of horror.
 
 ### ** But why don't you update!! From summer vacation to winter vacation is it!!! **
 
